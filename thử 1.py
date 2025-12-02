@@ -1,6 +1,1 @@
-print('Đầu lòng hai ả tố nga')
-print('Thúy kiều là chị em là thúy vân')
-print('Mai cốt cách tuyết tinh thần')
-print('Mỗi người 1 vẻ mười phân vẹn mười')
-print('Vân xem trang trọng khác người')
-print('Khuôn trang đầy đặn nét ngài nở nang')
+print('ahihihihi')
